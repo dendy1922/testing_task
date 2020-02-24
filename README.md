@@ -15,7 +15,6 @@
 
     source venv/bin/activate
     
-
 ```
 
 ## Docker commands for server
@@ -30,7 +29,6 @@
 
     // list all containers
     docker ps -a
-
 
     // list all docker images
     docker images
