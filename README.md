@@ -9,7 +9,7 @@
 
 ```
 
-    pip install virtualenv
+    pip3 install virtualenv
     
     virtualenv -p python3 venv  
 
