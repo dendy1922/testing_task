@@ -2,7 +2,7 @@
 
 ```
 
-    git clone https://github.com/dendy1922/testing.git
+    git clone https://github.com/dendy1922/testing_task.git
     
 ```
 ## Create a virtual environment inside the application 
